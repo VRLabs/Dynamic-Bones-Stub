@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Dynamic-Bones-Stub/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Dynamic-Bones-Stub/total?label=Downloads)](https://github.com/VRLabs/Dynamic-Bones-Stub/releases/latest)
 
-Stub package for the VRChat-whitelisted Dynamic Bones components. This package strips off everything that is not serialized, and only serves to preserve the serialized information in imported prefabs/scenes.
+Stub package for the VRChat and CVR whitelisted Dynamic Bones components. This package strips off everything that is not serialized, and only serves to preserve the serialized information in imported prefabs/scenes.
 
 ## How it works
 
