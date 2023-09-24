@@ -12,7 +12,7 @@
 
 Stub package for the [Dynamic Bones](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) components whitelisted by VRChat
 
-![Alt text](https://raw.githubusercontent.com/VRLabs/Dynamic-Bones-Stub/main/Media/trollcull.gif)
+![Alt text]()
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Dynamic-Bones-Stub/releases/latest)
 
