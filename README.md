@@ -30,7 +30,7 @@ Stub package for the [Dynamic Bones](https://assetstore.unity.com/packages/tools
 
 ## Additional notes
 
-* You can not use any of the Final IK components in editor as they do not have any executable code.
+* You can not use any of the Dynamic Bone components in editor as they do not have any executable code.
 * For testing in editor we highly recommend you to [buy the full software from the Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
 
 ## Contributors
