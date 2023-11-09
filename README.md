@@ -14,7 +14,7 @@ Stub package for the [Dynamic Bones](https://assetstore.unity.com/packages/tools
 
 ![Alt text]()
 
-### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Dynamic-Bones-Stub/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/Dynamic-Bones-Stub/releases/latest)
 
 <!-- 
 ### 📦 [Add to VRChat Creator Companion]() -->
