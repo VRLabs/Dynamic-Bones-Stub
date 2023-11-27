@@ -31,7 +31,8 @@ Stub package for the [Dynamic Bones](https://assetstore.unity.com/packages/tools
 ## Additional notes
 
 * You cannot use any of the Dynamic Bone components in the editor, as they lack executable code.
-* For testing in the editor, we highly recommend purchasing the full software from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
+* Note that in VRChat, Dynamic Bones are automatically converted to Phys Bones. If you have a recent Avatar SDK and this package, you can click the "Auto Fix" button in the SDK to convert the Dynamic Bones into Phys Bones to obtain the full functionality in the editor.
+* For testing in the editor if you really do need Dynamic Bones, we highly recommend purchasing the full software from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743).
 
 ## Contributors
 
