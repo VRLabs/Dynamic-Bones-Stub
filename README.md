@@ -12,7 +12,7 @@
 
 Stub package for the [Dynamic Bones](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743) components whitelisted by VRChat
 
-![Alt text]()
+![Not Dynamic Bones](https://github.com/VRLabs/Dynamic-Bones-Stub/assets/76777936/1ace50c9-475f-41ac-9312-98105277b578)
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Dynamic-Bones-Stub/releases/latest)
 
