@@ -1,7 +1,7 @@
 {
     "name": "dev.vrlabs.dynamic-bones-stub",
     "displayName": "Dynamic Bones Stub",
-    "version": "1.2.999",
+    "version": "1.3.999",
     "unity": "2019.4",
     "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
     "author": {
