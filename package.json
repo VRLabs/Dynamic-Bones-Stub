@@ -1,24 +1,28 @@
 {
-    "name": "dev.vrlabs.dynamic-bones-stub",
-    "displayName": "Dynamic Bones Stub",
-    "version": "1.3.999",
-    "license": "MIT",
-    "unity": "2019.4",
-    "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
-    "author": {
-        "name": "VRLabs",
-        "email": "mail@vrlabs.dev",
-        "url": "https://vrlabs.dev"
-    },
-    "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
-    "vpmDependencies": {},
-    "legacyFolders": {
-        "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-    },
-    "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
-    "unitypackageDestinationFolderMetas": {
-        "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-        "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
-    },
-    "vccRepoCategory": "essentials"
+  "name": "dev.vrlabs.dynamic-bones-stub",
+  "displayName": "Dynamic Bones Stub",
+  "version": "1.3.999",
+  "license": "MIT",
+  "unity": "2019.4",
+  "description": "Stub package for the Dynamic Bones components whitelisted by VRChat",
+  "author": {
+    "name": "VRLabs",
+    "email": "mail@vrlabs.dev",
+    "url": "https://vrlabs.dev"
+  },
+  "siteUrl": "https://github.com/VRLabs/Dynamic-Bones-Stub",
+  "vpmDependencies": {},
+  "legacyFolders": {
+    "Assets\\VRLabs\\Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+  },
+  "unityPackageDestinationFolder": "Assets/VRLabs/Dynamic Bones Stub",
+  "unitypackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+    "Assets/VRLabs/Dynamic Bones Stub": "24380da05081e4d49a901e8269ea3b6d"
+  },
+  "vccRepoCategory": "essentials",
+  "media": {
+    "previewImage": "https://github.com/VRLabs/Dynamic-Bones-Stub/blob/main/Media/Preview.webp",
+    "previewGif": "https://github.com/VRLabs/Dynamic-Bones-Stub/blob/main/Media/Preview.webp"
+  }
 }
